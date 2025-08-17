@@ -51,20 +51,8 @@ The KNN model was further optimized with the following parameters:
 - `weights = 'distance'`
 
 ## Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/titanic-survival-prediction.git
+  Open and run the notebook in [Colab](https://colab.research.google.com/drive/1yUqKijhHGfGun65FshL7aLCBhAfcyU2P?usp=sharing)
 
-## Installation
-
-2. Install the required dependencies:  
-   ```bash
-   pip install pandas numpy scikit-learn matplotlib seaborn
-
-3. Run the Jupyter Notebook
-
-   ```bash
-   jupyter notebook main.ipynb
 ## Dependencies
 
 - Python 3.x

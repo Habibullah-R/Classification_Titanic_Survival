@@ -55,7 +55,7 @@ The KNN model was further optimized with the following parameters:
    ```bash
    git clone https://github.com/your-username/titanic-survival-prediction.git
 
-   ## Installation
+## Installation
 
 2. Install the required dependencies:  
    ```bash
@@ -63,9 +63,8 @@ The KNN model was further optimized with the following parameters:
 
 3. Run the Jupyter Notebook
 
-```bash
-jupyter notebook main.ipynb
-
+   ```bash
+   jupyter notebook main.ipynb
 ## Dependencies
 
 - Python 3.x
@@ -82,5 +81,5 @@ This project is open-source and available under the MIT License. Feel free to us
 
 ## Acknowledgments
 
-- Dataset sourced from [Kaggle](https://www.kaggle.com)
+- Dataset sourced from [Kaggle](https://www.kaggle.com/competitions/titanic/data)
 - Inspired by various machine learning tutorials and competitions
